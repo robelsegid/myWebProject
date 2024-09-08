@@ -1,0 +1,36 @@
+.mybox{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(122, 122, 139);
+    border:solid ;
+
+
+}
+#header{
+    color: rgb(104, 8, 15);
+    background-color: blueviolet;
+    text-align: center;
+
+}
+span{color: blanchedalmond;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    
+}
+.cat{
+    width: 200px;
+    height: 200px;
+    margin-left: 30%;
+    border-radius: 10%;
+
+}
+#resetBatton{
+    margin-left: 42%;
+    
+    
+
+}
+#resetBatton:hover{
+    background-color: rgb(122, 55, 55);
+}
